@@ -1,4 +1,4 @@
-# Man-Bear-Monster
+# Man-Bear-Monster Game
 
 JAVA program to create the following game using appropriate control statements, input statements and print statements:
 Let the player choose a door from door 1 and door 2.
